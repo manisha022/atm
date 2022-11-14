@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class divisionop {
 
 	public static void main(String[] args) {
+		//use scanner for user input
 		Scanner sc=new Scanner(System.in);
 		System.out.println("Enter numerator: ");
 		double n1=sc.nextDouble();
